@@ -1,0 +1,97 @@
+/* Carousel */
+.carousel-container {
+
+    height: 30px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-right: 0px;
+
+}
+
+.car-images{
+    height: 550px;
+   
+}
+
+/* carousel captions */
+.carousel_caption1{
+    top:0;
+    bottom: auto;
+    font-size: 50px;
+    color:white; 
+    font-family: 'Righteous', cursive;
+    right: 70px;
+    
+    margin-top:0px;
+    padding:0px;
+    
+    
+}
+
+
+.Horizons_offices_text {
+  
+    color:turquoise;
+   
+    font-size: 100px;
+   
+}
+
+.home_to_text {
+    right: 50px;
+    font-size: 70px;
+    padding:0px;
+    margin-top: 0px;
+    font-family: 'Pacifico', cursive;  
+    color:yellowgreen;
+   
+}
+
+.carousel_caption2 {
+
+    top: 0;
+    margin-left: 0px;
+    font-size: 50px;
+    color:white; 
+    font-family: 'Righteous', cursive;
+    left:0px;
+    right:0px;
+    width:100%;
+   
+    
+}
+
+.we_save_you_text {
+    font-size: 9rem;
+    color:turquoise;
+}
+
+
+
+
+.carousel_caption3 {
+    top: 0;
+    font-size: 50px;
+    font-family: 'Righteous', cursive;
+    right:0px;
+    left:0px;
+     
+    
+}
+
+.connect_with_us {
+
+    font-size: 90px;
+    font-family: 'Righteous', cursive;
+    color:yellowgreen;
+    }
+    
+
+
+.start_working{
+    
+    font-size: 120px;
+    color:yellowgreen;
+    
+}

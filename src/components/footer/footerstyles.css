@@ -1,0 +1,59 @@
+/* footer */
+
+.footer_container {
+
+    margin-top: 150px;
+    background-color: #EBECF0;
+    right: 0px;
+    padding: 0px;
+    width: 60%;
+    font-family: 'Cuprum', sans-serif;
+    font-size: 20px;
+   
+}
+
+.visit_us_container{
+    width: 30%;
+}
+
+.visit_us_links {
+    text-decoration: none;
+    color:black;
+}
+
+
+
+.social_media_links {
+   
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'Cuprum', sans-serif;
+    display:inline;
+    text-align: center;
+    color:black;
+
+    
+
+}
+
+
+.Horizons_Offices_in_footer{
+
+    margin-top: 30px;
+
+    font-family: 'Pacifico', cursive;  
+}
+
+.footer_end_text {
+
+    font-size: 20px;
+}
+
+
+
+ .footer_image{
+  
+    
+    width: 100%;
+
+}

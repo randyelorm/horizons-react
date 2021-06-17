@@ -1,0 +1,48 @@
+.Own_A_Property_text {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    color:black;
+    margin-top: 60px;
+    margin-bottom: 30px;
+
+}
+.house_types_main_container{
+    background-color: #EBECF0;
+    margin-bottom: 20px;
+  
+   
+}
+
+
+
+
+.zoom:hover{
+    transform: scale(1.075);
+    transition: 0.3s ease;
+    cursor: pointer;
+}
+
+
+
+
+.thumbnail_captions {
+
+font-family: 'Akaya Telivigala', cursive;
+font-weight: bold;
+
+
+}
+
+.thumbnail_texts {
+
+    font-family: 'Cuprum', sans-serif;
+    font-size: 20px;
+
+}
+
+.disappear {
+    color:white;
+}
+
+

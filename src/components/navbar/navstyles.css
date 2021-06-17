@@ -1,0 +1,65 @@
+/* NavBar */
+.my_navbar_container {
+    margin-bottom: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 100%;
+    
+    
+    
+    }
+    
+    
+    .my_navbar {
+        margin-bottom: 0px;
+    
+        background: #F9F9F9;
+    
+        width: 100%;
+        margin: 0px;
+        margin-right: 10px;
+        height: 85px;   
+        
+    }
+    
+    
+    .nav_links {
+        padding-top: 3px;
+        padding-right:13px;
+        font-family: 'Rancho', cursive;
+        font-size: 30px;
+        font-weight: 60px;
+    
+     
+    }
+    
+    .brand_logo_container{
+        padding:0px;
+        padding-left:20px;
+        margin:0px;
+    }
+    
+    .brand_logo {
+        height: 80px;
+        margin:0px 0px 0px 0px;
+        padding:0px;
+        top:0px;
+        display:inline;
+    }
+    .flags_container {
+    
+        padding-top:20px;
+        
+       
+        
+    
+    
+    }
+    
+    .flags {
+        height:20px;
+        text-decoration: none;
+        
+    }
